@@ -1,0 +1,923 @@
+fileFormatVersion: 2
+guid: fa2e1a7bf8cb3494883e37ec10cfedc7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1064611138251523744
+    second: Wheels0011_0
+  - first:
+      213: -490954109840895174
+    second: Wheels0011_1
+  - first:
+      213: -7987583145094241052
+    second: Wheels0011_2
+  - first:
+      213: 617823056295297101
+    second: Wheels0011_3
+  - first:
+      213: -3905462479121291607
+    second: Wheels0011_4
+  - first:
+      213: -282399918663674156
+    second: Wheels0011_5
+  - first:
+      213: -3407568669176090011
+    second: Wheels0011_6
+  - first:
+      213: -640115580081193338
+    second: Wheels0011_7
+  - first:
+      213: -311627816913317847
+    second: Wheels0011_8
+  - first:
+      213: 6248283024675134784
+    second: Wheels0011_9
+  - first:
+      213: 2389947667910657244
+    second: Wheels0011_10
+  - first:
+      213: -6559942123542539336
+    second: Wheels0011_11
+  - first:
+      213: 2871326194851728161
+    second: Wheels0011_12
+  - first:
+      213: 48175952226733257
+    second: Wheels0011_13
+  - first:
+      213: 495712444672851953
+    second: Wheels0011_14
+  - first:
+      213: -2100027041813806496
+    second: Wheels0011_15
+  - first:
+      213: -6598108322091602321
+    second: Wheels0011_16
+  - first:
+      213: 5064143531951096492
+    second: Wheels0011_17
+  - first:
+      213: 8850832346730187172
+    second: Wheels0011_18
+  - first:
+      213: 7765921797542880811
+    second: Wheels0011_19
+  - first:
+      213: 1713522506068805192
+    second: Wheels0011_20
+  - first:
+      213: -8808347977012035024
+    second: Wheels0011_21
+  - first:
+      213: -972635013502528993
+    second: Wheels0011_22
+  - first:
+      213: 4633075489392998494
+    second: Wheels0011_23
+  - first:
+      213: 2449615868965997784
+    second: Wheels0011_24
+  - first:
+      213: 7469111200874268761
+    second: Wheels0011_25
+  - first:
+      213: -8175806209636459852
+    second: Wheels0011_26
+  - first:
+      213: 5314130250327875287
+    second: Wheels0011_27
+  - first:
+      213: -8949444401422151948
+    second: Wheels0011_28
+  - first:
+      213: -843808889071533453
+    second: Wheels0011_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wheels0011_0
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 295
+        width: 948
+        height: 682
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 069f7907fcdb931f0800000000000000
+      internalID: -1064611138251523744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wheels0011_1
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 273
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a335ae996d7cf29f0800000000000000
+      internalID: -490954109840895174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wheels0011_2
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 62
+        width: 807
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e4a2c61377662190800000000000000
+      internalID: -7987583145094241052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wheels0011_3
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 264
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d40078cdbc2f29800800000000000000
+      internalID: 617823056295297101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wheels0011_4
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 227
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a6eb5831920dc9c0800000000000000
+      internalID: -3905462479121291607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wheels0011_5
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 218
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d6d37b25c6b41cf0800000000000000
+      internalID: -282399918663674156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wheels0011_6
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 182
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56232067952e5b0d0800000000000000
+      internalID: -3407568669176090011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wheels0011_7
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 174
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e311a754add17f0800000000000000
+      internalID: -640115580081193338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wheels0011_8
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 136
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92050cec620ecabf0800000000000000
+      internalID: -311627816913317847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wheels0011_9
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 128
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d5ddd5e4c56b650800000000000000
+      internalID: 6248283024675134784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wheels0011_10
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 85
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd48691ddbcca2120800000000000000
+      internalID: 2389947667910657244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wheels0011_11
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 70
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b3102b056766f4a0800000000000000
+      internalID: -6559942123542539336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wheels0011_12
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 30
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12b496616fff8d720800000000000000
+      internalID: 2871326194851728161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wheels0011_13
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 26
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ccc037f5c72ba000800000000000000
+      internalID: 48175952226733257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wheels0011_14
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 27
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff377f87df11e600800000000000000
+      internalID: 495712444672851953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wheels0011_15
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 27
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06249f928843bd2e0800000000000000
+      internalID: -2100027041813806496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wheels0011_16
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 27
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e6e28707fce64a0800000000000000
+      internalID: -6598108322091602321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wheels0011_17
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 27
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca2898916b3774640800000000000000
+      internalID: 5064143531951096492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wheels0011_18
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 27
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a9c369202974da70800000000000000
+      internalID: 8850832346730187172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wheels0011_19
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 27
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b26a100bab816cb60800000000000000
+      internalID: 7765921797542880811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wheels0011_20
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 27
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8464ed004a7a7c710800000000000000
+      internalID: 1713522506068805192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wheels0011_21
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 27
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 032ca2cfe2672c580800000000000000
+      internalID: -8808347977012035024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wheels0011_22
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 27
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f121314cb918082f0800000000000000
+      internalID: -972635013502528993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wheels0011_23
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 27
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58b6da4c9dfb4040800000000000000
+      internalID: 4633075489392998494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wheels0011_24
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 27
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dcc0e977a8cef120800000000000000
+      internalID: 2449615868965997784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wheels0011_25
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 27
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 958800c601d97a760800000000000000
+      internalID: 7469111200874268761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wheels0011_26
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 27
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba9f22d193b98e80800000000000000
+      internalID: -8175806209636459852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wheels0011_27
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 27
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de53f4ae459fb940800000000000000
+      internalID: 5314130250327875287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wheels0011_28
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 28
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fecf1cabbf2dc380800000000000000
+      internalID: -8949444401422151948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wheels0011_29
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 30
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 372039c39403a44f0800000000000000
+      internalID: -843808889071533453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Wheels0011_0: -1064611138251523744
+      Wheels0011_1: -490954109840895174
+      Wheels0011_10: 2389947667910657244
+      Wheels0011_11: -6559942123542539336
+      Wheels0011_12: 2871326194851728161
+      Wheels0011_13: 48175952226733257
+      Wheels0011_14: 495712444672851953
+      Wheels0011_15: -2100027041813806496
+      Wheels0011_16: -6598108322091602321
+      Wheels0011_17: 5064143531951096492
+      Wheels0011_18: 8850832346730187172
+      Wheels0011_19: 7765921797542880811
+      Wheels0011_2: -7987583145094241052
+      Wheels0011_20: 1713522506068805192
+      Wheels0011_21: -8808347977012035024
+      Wheels0011_22: -972635013502528993
+      Wheels0011_23: 4633075489392998494
+      Wheels0011_24: 2449615868965997784
+      Wheels0011_25: 7469111200874268761
+      Wheels0011_26: -8175806209636459852
+      Wheels0011_27: 5314130250327875287
+      Wheels0011_28: -8949444401422151948
+      Wheels0011_29: -843808889071533453
+      Wheels0011_3: 617823056295297101
+      Wheels0011_4: -3905462479121291607
+      Wheels0011_5: -282399918663674156
+      Wheels0011_6: -3407568669176090011
+      Wheels0011_7: -640115580081193338
+      Wheels0011_8: -311627816913317847
+      Wheels0011_9: 6248283024675134784
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
