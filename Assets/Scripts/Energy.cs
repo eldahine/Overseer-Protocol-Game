@@ -32,4 +32,9 @@ public class Energy : MonoBehaviour
         count -= amount;
         UpdateUI();
     }
+
+    public long GetAmount()
+    {
+        return count;
+    }
 }
