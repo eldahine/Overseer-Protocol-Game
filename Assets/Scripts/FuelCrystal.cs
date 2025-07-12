@@ -1,7 +1,7 @@
 using TMPro;
 using UnityEngine;
 
-public class Energy : MonoBehaviour
+public class FuelCrystal : MonoBehaviour
 {
     [SerializeField] private TextMeshProUGUI textMeshProUGUI;
     [SerializeField] private long count;
@@ -22,7 +22,7 @@ public class Energy : MonoBehaviour
 
     private void UpdateUI()
     {
-        textMeshProUGUI.text = prefixString + count.ToString() + suffixString;
+        textMeshProUGUI.text = prefixString + count.ToString() + suffixString + max;
     }
 
     public void AddAmount(long amount) { 

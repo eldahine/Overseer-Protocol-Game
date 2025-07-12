@@ -1,7 +1,7 @@
 using TMPro;
 using UnityEngine;
 
-public class Energy : MonoBehaviour
+public class LifeSupport : MonoBehaviour
 {
     [SerializeField] private TextMeshProUGUI textMeshProUGUI;
     [SerializeField] private long count;
@@ -14,21 +14,22 @@ public class Energy : MonoBehaviour
     {
         UpdateUI();
     }
-
     void OnValidate()
     {
         UpdateUI();
     }
 
-    private void UpdateUI()
+    void UpdateUI()
     {
         textMeshProUGUI.text = prefixString + count.ToString() + suffixString;
     }
 
-    public void AddAmount(long amount) { 
+    public void AddAmount(long amount)
+    {
         count += amount;
 
-        if (count > max) {
+        if (count > max)
+        {
             count = max;
         }
 
@@ -47,8 +48,7 @@ public class Energy : MonoBehaviour
         UpdateUI();
     }
 
-    public long GetAmount()
-    {
+    public long GetAmount() {
         return count;
     }
 }
