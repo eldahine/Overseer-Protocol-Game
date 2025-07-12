@@ -4653,6 +4653,7 @@ MonoBehaviour:
   - {fileID: 8300000, guid: b583b0af0e672c34280f3947e1213131, type: 3}
   isMining: 1
   isLifeSupport: 1
+  drillAnimator: {fileID: 405312306}
 --- !u!82 &1973512239
 AudioSource:
   m_ObjectHideFlags: 0

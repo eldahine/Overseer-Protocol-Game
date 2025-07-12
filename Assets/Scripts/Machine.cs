@@ -14,6 +14,8 @@ public class Machine : MonoBehaviour
     private Drill drill;
     private FuelCrystal fuelCrystal;
 
+    [SerializeField] private Animator drillAnimator;
+
     private void Awake()
     {
         energy = GetComponent<Energy>();
@@ -35,14 +37,14 @@ public class Machine : MonoBehaviour
         {
             yield return new WaitForSeconds(1);
 
-            if (isMining && UsePower(1))
+            if (isMining && UsePower(5))
             {
-                drill.AddAmount(1);
-                fuelCrystal.AddAmount(1);
+                drill.AddAmount(5);
+                fuelCrystal.AddAmount(drill.GetAmount() / 5);
             }
             else
             {
-                drill.SubtractAmount(1);
+                drill.SubtractAmount(25);
             }
 
             if (isLifeSupport && UsePower(1))
@@ -86,7 +88,7 @@ public class Machine : MonoBehaviour
     {
         if (energy.GetAmount() > 0)
         {
-            energy.SubtractAmount(1);
+            energy.SubtractAmount(amount);
             return true;
         }
         else
@@ -107,6 +109,8 @@ public class Machine : MonoBehaviour
     public void ToggleMiningMode()
     {
         isMining = !isMining;
+
+        drillAnimator.SetBool("isMining", isMining);
     }
 
     public void ToggleLifeSupport()
